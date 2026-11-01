@@ -1,0 +1,3 @@
+public interface ILive2DController_EyeLEmotes : ILive2DController_EyeLCloseAndShock, ILive2DController_BrowLY, ILive2DController_BrowLRot, ILive2DController_BrowLEmote
+{
+}

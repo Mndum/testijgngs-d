@@ -1,0 +1,147 @@
+using System;
+
+[Serializable]
+public class FrickConversations : LocalizedStringReferenceContainer
+{
+	public SerializedLocalizedConversation Moan;
+
+	public SerializedLocalizedConversation Headpat;
+
+	public SerializedLocalizedConversation AnonRapeBegStop;
+
+	public SerializedLocalizedConversation RapeBegStopSuccess;
+
+	public SerializedLocalizedConversation RapeBegStopRefuse;
+
+	public SerializedLocalizedConversation RapeFlacidReaction;
+
+	public SerializedLocalizedConversation StartFrickNormal;
+
+	public SerializedLocalizedConversation StartFrickHorny;
+
+	public SerializedLocalizedConversation StartFrickVeryHorny;
+
+	public SerializedLocalizedConversation StartFrickNormalLike;
+
+	public SerializedLocalizedConversation StartFrickHornyLike;
+
+	public SerializedLocalizedConversation StartFrickVeryHornyLike;
+
+	public SerializedLocalizedConversation StartFrickNormalAffection;
+
+	public SerializedLocalizedConversation StartFrickHornyAffection;
+
+	public SerializedLocalizedConversation StartFrickVeryHornyAffection;
+
+	public SerializedLocalizedConversation StartFrickNormalLove;
+
+	public SerializedLocalizedConversation StartFrickHornyLove;
+
+	public SerializedLocalizedConversation StartFrickVeryHornyLove;
+
+	public SerializedLocalizedConversation CockOutside30Like;
+
+	public SerializedLocalizedConversation CockOutside30Affection;
+
+	public SerializedLocalizedConversation CockOutsideHorny30Affection;
+
+	public SerializedLocalizedConversation CockOutside60Affection;
+
+	public SerializedLocalizedConversation CockInside30Affection;
+
+	public SerializedLocalizedConversation CockInside30HornyLike;
+
+	public SerializedLocalizedConversation CockInside30HornyAffection;
+
+	public SerializedLocalizedConversation CockInsideAnal30Affection;
+
+	public SerializedLocalizedConversation CockInsideAnal30HornyLike;
+
+	public SerializedLocalizedConversation CockInsideAnal30HornyAffection;
+
+	public SerializedLocalizedConversation CumInside;
+
+	public SerializedLocalizedConversation CumInsideAnal;
+
+	public SerializedLocalizedConversation FingeringBotCummingLike;
+
+	public SerializedLocalizedConversation FingeringDuringLike;
+
+	public SerializedLocalizedConversation FingeringDuringLikeHorny;
+
+	public SerializedLocalizedConversation FingeringDuringAffection;
+
+	public SerializedLocalizedConversation FingeringDuringAffectionHorny;
+
+	public SerializedLocalizedConversation FingeringDuringAffectionLong;
+
+	public SerializedLocalizedConversation BoobFondleLike;
+
+	public SerializedLocalizedConversation BoobFondleLikeHorny;
+
+	public SerializedLocalizedConversation BoobFondleAffection;
+
+	public SerializedLocalizedConversation BoobFondleAffectionHorny;
+
+	public SerializedLocalizedConversation NipplePullLike;
+
+	public SerializedLocalizedConversation NipplePullLikeHorny;
+
+	public SerializedLocalizedConversation NipplePullAffection;
+
+	public SerializedLocalizedConversation NipplePullAffectionHorny;
+
+	public SerializedLocalizedConversation PussySpreadLike;
+
+	public SerializedLocalizedConversation PussySpreadLikeLong;
+
+	public SerializedLocalizedConversation PussySpreadAffection;
+
+	public SerializedLocalizedConversation PussySpreadAffectionLong;
+
+	public SerializedLocalizedConversation ClitRubLike;
+
+	public SerializedLocalizedConversation ClitRubAffection;
+
+	public SerializedLocalizedConversation ClitRubAffectionHorny;
+
+	public SerializedLocalizedConversation HandholdingLike;
+
+	public SerializedLocalizedConversation HandholdingAffection;
+
+	public SerializedLocalizedConversation HandholdingAffectionCockInside;
+
+	public SerializedLocalizedConversation HandholdingLove;
+
+	public SerializedLocalizedConversation HandholdingLoveCockInside;
+
+	public SerializedLocalizedConversation UpsetOnlySheMoves;
+
+	public SerializedLocalizedConversation UpsetOnlySheMovesHorny;
+
+	public SerializedLocalizedConversation FlacidBoredReaction;
+
+	public SerializedLocalizedConversation CumThighjob;
+
+	public SerializedLocalizedConversation AnusSpreadLike;
+
+	public SerializedLocalizedConversation AnusSpreadLikeLong;
+
+	public SerializedLocalizedConversation AnusSpreadAffection;
+
+	public SerializedLocalizedConversation AnusSpreadAffectionLong;
+
+	public SerializedLocalizedConversation FingeringAnusBotCummingLike;
+
+	public SerializedLocalizedConversation FingeringAnusDuringLike;
+
+	public SerializedLocalizedConversation FingeringAnusDuringLikeHorny;
+
+	public SerializedLocalizedConversation FingeringAnusDuringAffection;
+
+	public SerializedLocalizedConversation FingeringAnusDuringAffectionHorny;
+
+	public SerializedLocalizedConversation FingeringAnusDuringAffectionLong;
+
+	public override string ContainerName => "Frick";
+}

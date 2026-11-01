@@ -1,0 +1,24 @@
+public enum CookingSongEnumGI
+{
+	MysteryMeat,
+	ExoticHardware,
+	Hypersexual,
+	ISOLated,
+	IfOnly,
+	ShesRealToMe,
+	ItsHimAgain,
+	RapidCookingChallenge,
+	Carrot,
+	Spirasomnus,
+	LetHimCook,
+	Reflection,
+	CockTail,
+	ProteinShake,
+	EvoxMachine,
+	CreamNPie,
+	MoanChoir,
+	PPP,
+	AirFryer,
+	Demise,
+	WhiteDress
+}

@@ -1,0 +1,3 @@
+public interface ILive2DController_BodyMod_AllLegs : ILive2DController_BodyMod_ThighSize, ILive2DController_BodyMod_CalfSize, ILive2DController_BodyMod_FootSize
+{
+}

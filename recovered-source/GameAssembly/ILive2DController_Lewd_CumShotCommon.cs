@@ -1,0 +1,3 @@
+public interface ILive2DController_Lewd_CumShotCommon : ILive2DController_Lewd_CumShotBasic, ILive2DController_Lewd_CumShotLength
+{
+}

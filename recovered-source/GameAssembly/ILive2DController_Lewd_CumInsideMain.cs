@@ -1,0 +1,3 @@
+public interface ILive2DController_Lewd_CumInsideMain : ILive2DController_Lewd_CumInsideAnal, ILive2DController_Lewd_CumInsideWomb, ILive2DController_Lewd_CumInsideVagina
+{
+}
